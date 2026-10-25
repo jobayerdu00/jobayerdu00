@@ -55,6 +55,6 @@ I believe in being open about using AI tools. Knowing how to frame a problem, qu
 
 ## 📫 Get in touch
 
-- 💼 LinkedIn: [add your link](https://www.linkedin.com/in/jobayerdu/)
-- 📧 Email: [add your email](jmd32087@ucumberlands.edu)
+- 💼 LinkedIn: (https://www.linkedin.com/in/jobayerdu/)
+- 📧 Email: (jmd32087@ucumberlands.edu)
 - 🎓 University of the Cumberlands, Business Analytics (graduated December 2025)
